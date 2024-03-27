@@ -1,3 +1,4 @@
+#dimulacion --> https://wokwi.com/projects/393487970088615937
 from machine import Pin, ADC    # ADC class is needed to create an ADC object
 from time import sleep
 import utime
