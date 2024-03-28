@@ -1,4 +1,5 @@
 #simulacion --> https://wokwi.com/projects/393487970088615937
+#compilado -- > https://github.com/Francox5/codes/
 from machine import Pin, ADC    # ADC class is needed to create an ADC object
 from time import sleep
 import utime
