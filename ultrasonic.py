@@ -1,4 +1,5 @@
 #simulacion -- > https://wokwi.com/projects/393555543456919553
+#compilado -- > https://github.com/Francox5/codes/
 #modulos
 from machine import Pin, time_pulse_us
 from time import sleep_us, sleep
