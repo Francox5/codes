@@ -1,4 +1,5 @@
 #simulacion -- > https://wokwi.com/projects/391573055586327553
+#compilado  -- >  https://github.com/Francox5/codes
 from machine import Pin
 import time
 from utime import sleep
